@@ -1,0 +1,43 @@
+/* Navigation */
+#navber{
+    flex-direction: column;
+    position: sticky;
+}
+
+/* Home section */
+
+#home{
+    height: 500px;
+    padding: 0px 20px;
+    overflow: hidden;
+}
+
+/* Service section */
+#services{
+    flex-direction: column;
+}
+
+
+/* Client section */
+#clients{
+    flex-wrap: wrap;
+}
+
+#clients img{
+    height: 37px;
+    padding: 0px 13px;
+}
+
+
+/* Contact section */
+
+#contact-box{
+
+}
+
+/* Footer */
+
+.btn{
+    font-size: 13px;
+    padding: 4px 8px;
+}
